@@ -32,7 +32,7 @@ h1 {
     font-weight: bold;
     cursor: pointer;
     transition: all 0.3s ease;
-    border-radiues: 5px;
+    border-radies: 5px;
 }
 
 .cell:hover {
